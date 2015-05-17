@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\LinearRecursiveSearch\LinearRecursiveSearch\bin\Debug\LinearRecursiveSearch.exe.config
+c:\users\user\documents\visual studio 2012\Projects\LinearRecursiveSearch\LinearRecursiveSearch\bin\Debug\LinearRecursiveSearch.exe
+c:\users\user\documents\visual studio 2012\Projects\LinearRecursiveSearch\LinearRecursiveSearch\bin\Debug\LinearRecursiveSearch.pdb
+c:\users\user\documents\visual studio 2012\Projects\LinearRecursiveSearch\LinearRecursiveSearch\obj\Debug\LinearRecursiveSearch.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\LinearRecursiveSearch\LinearRecursiveSearch\obj\Debug\LinearRecursiveSearch.exe
+c:\users\user\documents\visual studio 2012\Projects\LinearRecursiveSearch\LinearRecursiveSearch\obj\Debug\LinearRecursiveSearch.pdb
